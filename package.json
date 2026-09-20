@@ -1,0 +1,5 @@
+{
+  "name": "solar-price-customer",
+  "private": true,
+  "dependencies": { "@vercel/functions": "latest" }
+}
